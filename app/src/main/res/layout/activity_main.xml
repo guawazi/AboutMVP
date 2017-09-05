@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="github.guawazi.aboutmvp.HomeCategory.CategoryDefaultFragment$MainActivity">
+    tools:context="github.guawazi.aboutmvp.homecategory.CategoryDefaultFragment$MainActivity">
 
 
     <android.support.design.widget.TabLayout

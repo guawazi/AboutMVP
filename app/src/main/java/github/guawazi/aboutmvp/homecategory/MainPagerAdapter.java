@@ -1,4 +1,4 @@
-package github.guawazi.aboutmvp.HomeCategory;
+package github.guawazi.aboutmvp.homecategory;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
